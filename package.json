@@ -1,7 +1,7 @@
 {
   "name": "pleskatsevich-zoya-weather-app",
   "version": "1.0.0",
-  "homepage": "https://izofiya.github.io/Plescatsevich-Zoya-task-about-the-weather",
+  "homepage": "https://izofiya.github.io/pleskatsevich-zoya-weather-app",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
