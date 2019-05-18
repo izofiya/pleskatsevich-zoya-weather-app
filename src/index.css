@@ -3,11 +3,32 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+    background-color: rgb(236, 199, 241);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+h1 {
+  margin-left: 20px;
+  color: darkmagenta;
+}
+.infoDiv {
+  margin: 20px;
+}
+
+.weatherDiv {
+  margin: 20px;
+}
+
+button {
+  margin: 30px;
+  background-color: rgb(211, 195, 247);
+  font-size: 20px;
+}
+
+input {
+  margin-left: 20px;
 }
