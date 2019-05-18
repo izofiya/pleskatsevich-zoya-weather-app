@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Plescatsevich-Zoya-task-about-the-weather/static/css/main.2d21bf90.chunk.css",
-    "main.js": "/Plescatsevich-Zoya-task-about-the-weather/static/js/main.1aa19293.chunk.js",
-    "main.js.map": "/Plescatsevich-Zoya-task-about-the-weather/static/js/main.1aa19293.chunk.js.map",
-    "runtime~main.js": "/Plescatsevich-Zoya-task-about-the-weather/static/js/runtime~main.3e3cfd1a.js",
-    "runtime~main.js.map": "/Plescatsevich-Zoya-task-about-the-weather/static/js/runtime~main.3e3cfd1a.js.map",
-    "static/js/2.77f351f1.chunk.js": "/Plescatsevich-Zoya-task-about-the-weather/static/js/2.77f351f1.chunk.js",
-    "static/js/2.77f351f1.chunk.js.map": "/Plescatsevich-Zoya-task-about-the-weather/static/js/2.77f351f1.chunk.js.map",
-    "index.html": "/Plescatsevich-Zoya-task-about-the-weather/index.html",
-    "precache-manifest.392e3a7a23669d3e3e1bbe6254da05fe.js": "/Plescatsevich-Zoya-task-about-the-weather/precache-manifest.392e3a7a23669d3e3e1bbe6254da05fe.js",
-    "service-worker.js": "/Plescatsevich-Zoya-task-about-the-weather/service-worker.js",
-    "static/css/main.2d21bf90.chunk.css.map": "/Plescatsevich-Zoya-task-about-the-weather/static/css/main.2d21bf90.chunk.css.map"
+    "main.css": "/pleskatsevich-zoya-weather-app/static/css/main.2d21bf90.chunk.css",
+    "main.js": "/pleskatsevich-zoya-weather-app/static/js/main.1aa19293.chunk.js",
+    "main.js.map": "/pleskatsevich-zoya-weather-app/static/js/main.1aa19293.chunk.js.map",
+    "runtime~main.js": "/pleskatsevich-zoya-weather-app/static/js/runtime~main.94787b7d.js",
+    "runtime~main.js.map": "/pleskatsevich-zoya-weather-app/static/js/runtime~main.94787b7d.js.map",
+    "static/js/2.77f351f1.chunk.js": "/pleskatsevich-zoya-weather-app/static/js/2.77f351f1.chunk.js",
+    "static/js/2.77f351f1.chunk.js.map": "/pleskatsevich-zoya-weather-app/static/js/2.77f351f1.chunk.js.map",
+    "index.html": "/pleskatsevich-zoya-weather-app/index.html",
+    "precache-manifest.19bb4f331b1c2202034c29ca94f34cdb.js": "/pleskatsevich-zoya-weather-app/precache-manifest.19bb4f331b1c2202034c29ca94f34cdb.js",
+    "service-worker.js": "/pleskatsevich-zoya-weather-app/service-worker.js",
+    "static/css/main.2d21bf90.chunk.css.map": "/pleskatsevich-zoya-weather-app/static/css/main.2d21bf90.chunk.css.map"
   }
 }
